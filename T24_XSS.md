@@ -1,4 +1,4 @@
-# T24
+# T24 R20 XSS POC
 
 XSS in genrequest.jsp in "routineName" parameter
 
